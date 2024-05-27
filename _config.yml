@@ -21,14 +21,14 @@ repository               : "bcmorank/bcmorank.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.jpeg"
+  name             : "Bhavana Morankar"
+  pronouns         : # example: "she/her"
+  bio              : "Biomathematics Graduate Student"
+  location         : "Raleigh, NC"
+  employer         : "North Carolina State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bcmorank@ncsu.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
